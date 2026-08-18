@@ -27,7 +27,7 @@ public class TextNormalizerValidator {
 
     public static void main(String[] args) {
 
-        System.out.println(processText(" temp_dedeepya_user "));
+        System.out.println(processText(" temp_Harshini_user "));
         System.out.println(processText(" Admin "));
         System.out.println(processText(" "));
     }
