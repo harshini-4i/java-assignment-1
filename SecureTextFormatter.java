@@ -1,8 +1,8 @@
 public class SecureTextFormatter {
     public static void main(String[] args) {
 
-        String fullName = " Dedeepya J ";
-        String email = "dedeepyaj@example.com";
+        String fullName = "Harshini";
+        String email = "Harshini@example.com";
         String sentence = "Java Assignments programs";
 
         String[] names = fullName.trim().split(" ");
