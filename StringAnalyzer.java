@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q1_2_StringAnalyzer {
+public class StringAnalyzer {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

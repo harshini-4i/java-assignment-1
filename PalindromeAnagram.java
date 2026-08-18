@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Q1_3_PalindromeAnagram {
+public class PalindromeAnagram {
 
     public static void main(String[] args) {
 
