@@ -23,13 +23,13 @@ public class StringAnalyzer {
         System.out.println("First Word : " + firstWord);
         System.out.println("Last Word : " + lastWord);
 
-        char target = 'J';
+        char target = 'H';
 
         int firstIndex = sentence.indexOf(target);
         int lastIndex = sentence.lastIndexOf(target);
 
-        System.out.println("First 'J' index : " + firstIndex);
-        System.out.println("Last 'J' index : " + lastIndex);
+        System.out.println("First 'H' index : " + firstIndex);
+        System.out.println("Last 'H' index : " + lastIndex);
 
         int comparison = firstWord.compareTo(lastWord);
 
